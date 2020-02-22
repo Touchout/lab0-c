@@ -2,5 +2,6 @@ qtest
 *.o
 *.o.d
 *.dSYM
+*.swp
 .vscode
 .devcontainer
